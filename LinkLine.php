@@ -1,3 +1,5 @@
+<?php
+require_once('../include/gmtool.php');
 // 功能選擇	
 switch( $actionStr ) {		
 		case "add_connection" :
